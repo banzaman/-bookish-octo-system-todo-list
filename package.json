@@ -1,0 +1,20 @@
+{
+  "name": "-bookish-octo-system-todo-list",
+  "version": "1.0.0",
+  "description": "![](https://img.shields.io/badge/Academic-blue)\r ![](https://img.shields.io/badge/HTML-red)\r ![](https://img.shields.io/badge/JavaScript-yellow)",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/banzaman/-bookish-octo-system-todo-list.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/banzaman/-bookish-octo-system-todo-list/issues"
+  },
+  "homepage": "https://github.com/banzaman/-bookish-octo-system-todo-list#readme"
+}
